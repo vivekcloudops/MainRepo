@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Subcription__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>Subcription__c.dueAmount__c</members>
+		<members>Subcription__c.dueDate__c</members>  
+		<members>Subcription__c.status__c</members> 		
+		<name>CustomField</name> 
+		</types>
+	<types>
+		<members>DevOpsTestClass</members>  
+		<name>ApexClass</name>           
+	</types>   
+    <types>
+        <members>MyCoolTrigger</members>  
+        <name>ApexTrigger</name>   
+    </types>
+    <types>
+        <members>Subcription__c.Due_Date_Past</members>  
+        <name>ValidationRule</name>       
+    </types>	
+	<version>33.0</version>    
+</Package>  
