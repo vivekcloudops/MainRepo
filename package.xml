@@ -5,7 +5,6 @@
 		<name>CustomObject</name>
 	</types>
 	<types>
-		<members>Subcription__c.dueAmount__c</members>
 		<members>Subcription__c.dueDate__c</members>  
 		<members>Subcription__c.status__c</members> 		
 		<name>CustomField</name> 
