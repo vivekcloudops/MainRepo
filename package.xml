@@ -2,7 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
 		<members>Subcription__c</members>
-		<name>CustomObject</name>
+			<name>CustomObject</name>
 	</types>
 	<types>
 		<members>Subcription__c.dueDate__c</members>  
