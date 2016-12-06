@@ -4,7 +4,7 @@ git checkout master
 git status
 git add .
 git commit -m "adding src folder from batch file"
-git remote add cloudOps https://github.com/vivekcloudops/MainRepo.git
-git push -u cloudOps master
+git remote add origin https://github.com/vivekcloudops/MainRepo.git
+git push -u origin master
 
 pause
